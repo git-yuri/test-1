@@ -8,7 +8,7 @@ Markdown 장단점
 ### 단점
 #### 1.표준이 없고, 모든 HTML 마크업을 대신하지 못함
 
-가이드: [마크다운 가이드](https:www.markdownguide.org)
+가이드: [마크다운 가이드](https:www.help.github.com/en/articles/basic-writing-andformatting-syntax)
 
 - - -
 
