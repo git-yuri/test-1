@@ -55,6 +55,10 @@ Markdown 장단점
 a = "hello"
 print(a)
 ```
+*****
+이미지 넣기
+
+![이미지넣기](./img0.gif)
 
 * * *
 
